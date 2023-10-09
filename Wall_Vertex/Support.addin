@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Command">
+        <Assembly>C:\Users\KHAN6590\source\repos\Wall_Vertex\Wall_Vertex\bin\x64\Debug\Wall_Vertex.dll</Assembly>
+        <AddInId>D030C29E-C155-4EF5-A611-A67BEB0D79E0</AddInId>
+        <FullClassName>CoreRevitModule.Class1</FullClassName>
+        <Text>Finding wall vertex</Text>
+        <VendorId>ADSK</VendorId>
+        <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+    </AddIn>
+</RevitAddIns>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Command">
+        <Assembly>C:\Users\sandr\source\repos\Wall_Vertex_selection_filter\Wall_Vertex_selection_filter\bin\x64\Debug\Wall_Vertex_selection_filter.dll</Assembly>
+        <AddInId>E7DC04EB-6527-4DBB-A84A-229891022006</AddInId>
+        <FullClassName>Wall_Vertex.Class1</FullClassName>
+        <Text>Wall Vertex</Text>
+        <VendorId>NAME</VendorId>
+        <VendorDescription>Your Company Information</VendorDescription>
+    </AddIn>
+</RevitAddIns>
+
+
+
